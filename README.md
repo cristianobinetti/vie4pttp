@@ -1,2 +1,10 @@
 # vie4pttp
-Virtual Interactive Environments for psychotherapeutic treatment of phobias
+# Virtual Interactive Environments for psychotherapeutic treatment of phobias
+
+Phobias are among the most prevalent mental disorders, affecting an estimated 2% to 12% of the population in various countries. Several approaches exist to treat this disorder, including psychotherapy and medication.
+The most effective methodology involves gradually exposing patients to fear-inducing stimuli until habituation occurs, typically resulting in a 90-95% success rate. However, this approach can be intimidating and discouraging for individuals with phobias, as it requires confronting the feared object or situation. Additionally, given the diversity of phobia types, applying these stimuli safely and practically can be challenging and costly.
+In recent years, technological advancements have benefitted psychotherapy, with virtual reality emerging as a new mode of exposure therapy increasingly utilized by specialists in the field. This approach addresses the aforementioned challenges.
+The software, developed using the cross-platform Unity3D game engine, excels in its ability to connect the psychoanalyst (server) with patients (clients) in a multiplayer mode. Patients can immerse themselves in and interact with the virtual environment and its entities, while the psychoanalyst, through a dedicated GUI, maintains full control over the virtual world, allowing for dynamic modifications of the setting and stimuli.
+To enhance realism, the hardware chosen consists of VR headsets, providing a 360° immersive experience. Specifically, for this thesis project, the Oculus Go, a portable all-in-one VR headset based on the Android operating system, was used. This economically accessible, standalone device eliminates the need for a computer connection, making medical sessions quick to initiate and hassle-free for patients. The psychoanalyst can launch the software from a Windows PC to have better control through the interface. Unity3D's cross-platform nature facilitates the Windows-Android connection.
+
+**It's important to note that the work conducted represents an extensively improvable prototype.**
