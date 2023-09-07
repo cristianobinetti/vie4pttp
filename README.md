@@ -1,5 +1,5 @@
-# vie4pttp
 # Virtual Interactive Environments for psychotherapeutic treatment of phobias
+
 
 Phobias are among the most prevalent mental disorders, affecting an estimated 2% to 12% of the population in various countries. Several approaches exist to treat this disorder, including psychotherapy and medication.
 The most effective methodology involves gradually exposing patients to fear-inducing stimuli until habituation occurs, typically resulting in a 90-95% success rate. However, this approach can be intimidating and discouraging for individuals with phobias, as it requires confronting the feared object or situation. Additionally, given the diversity of phobia types, applying these stimuli safely and practically can be challenging and costly.
